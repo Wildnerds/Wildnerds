@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Samuel Tamuno
 - 👀 I’m interested in software programming
 - 🌱 I’m currently learning Java, Python, Javascript, HTML and CSS
-- 💞️ I’m looking to collaborate on great minds on similar wavelength
+- 💞️ I’m looking to collaborate with great minds on similar wavelength
 - 📫 How to reach me samueltamunotope@gmail.com
 
 <!---
